@@ -1,3 +1,16 @@
+## [1.8.2](https://github.com/rjchow/nod/compare/v1.8.1...v1.8.2) (2020-12-15)
+
+
+### Bug Fixes
+
+* changed updtr command to allow usage in ci ([4a92313](https://github.com/rjchow/nod/commit/4a9231377151055767c32179b57b9bd8aa52fc06))
+
+
+### Miscellaneous
+
+* Rename update-deps to update-deps.yml ([2d80e61](https://github.com/rjchow/nod/commit/2d80e61881aac084be065cba057854a5599156e8))
+* Create update-deps ([a7fdec3](https://github.com/rjchow/nod/commit/a7fdec34dd6a3f9ea09cb59a3ba9695291527deb))
+
 ## [1.8.1](https://github.com/rjchow/nod/compare/v1.8.0...v1.8.1) (2020-10-18)
 
 

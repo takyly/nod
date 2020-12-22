@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/rjchow/nod/compare/v1.8.2...v1.8.3) (2020-12-22)
+
+
+### Chores
+
+* fix update deps commit message ([412421a](https://github.com/rjchow/nod/commit/412421a8902c8c4672a7264d0abbad01763b4976))
+
 ## [1.8.2](https://github.com/rjchow/nod/compare/v1.8.1...v1.8.2) (2020-12-15)
 
 

@@ -8,13 +8,13 @@ jobs:
       - run:
           name: install
           command: npm install
-      - run: npm run commitlint-circle
       - run:
           name: lint
           command: npm run lint
       - run:
           name: build
           command: npm run build
+      - run: npm run commitlint-circle
       - run:
           name: release
           command: npm run semantic-release

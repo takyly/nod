@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/rjchow/nod/compare/v1.8.3...v1.9.0) (2020-12-24)
+
+
+### Features
+
+* 🎸 removed default export ([733bee7](https://github.com/rjchow/nod/commit/733bee790e339154e1d2dde34cd952934d7e8800))
+
 ## [1.8.3](https://github.com/rjchow/nod/compare/v1.8.2...v1.8.3) (2020-12-22)
 
 

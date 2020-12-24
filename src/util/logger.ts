@@ -1,6 +1,9 @@
 import debug from "debug";
+import { name } from "../../package.json"; // automatically set logger namespace to package.json name
 
-const logger = debug("PLACEHOLDER_PROJECT_NAME");
+export const LOGGER_NAMESPACE = name;
+
+const logger = debug(LOGGER_NAMESPACE);
 
 export const trace = (namespace: string) => logger.extend(`trace:${namespace}`);
 export const info = (namespace: string) => logger.extend(`info:${namespace}`);

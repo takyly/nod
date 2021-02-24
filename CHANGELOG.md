@@ -1,3 +1,10 @@
+## [1.9.5](https://github.com/rjchow/nod/compare/v1.9.4...v1.9.5) (2021-02-24)
+
+
+### Chores
+
+* update dependencies ([#348](https://github.com/rjchow/nod/issues/348)) ([35177bc](https://github.com/rjchow/nod/commit/35177bc9e6977af6bc6c07052148e8a040d0d496))
+
 ## [1.9.4](https://github.com/rjchow/nod/compare/v1.9.3...v1.9.4) (2021-02-02)
 
 

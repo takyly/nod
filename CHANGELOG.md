@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/rjchow/nod/compare/v1.9.8...v1.10.0) (2021-03-24)
+
+
+### Features
+
+* jest typeahead ([#352](https://github.com/rjchow/nod/issues/352)) ([3116ee4](https://github.com/rjchow/nod/commit/3116ee4da13174585abb923d6481424abfc45a16))
+
 ## [1.9.8](https://github.com/rjchow/nod/compare/v1.9.7...v1.9.8) (2021-03-24)
 
 

@@ -4,19 +4,19 @@ NodeJS module generator/boilerplate.
 
 ## Features
 
--   [**Babel**](https://babeljs.io/) - Write next generation JavaScript today.
--   [**Debug**](https://github.com/visionmedia/debug) - JS debugging utility that works both in node.js and browsers.
--   [**Jest**](https://facebook.github.io/jest) - JavaScript testing framework used by Facebook.
--   [**ESLint**](http://eslint.org/) - Make sure you are writing a quality code.
--   [**Prettier**](https://prettier.io/) - Enforces a consistent style by parsing your code and re-printing it.
--   [**Typescript**](https://www.typescriptlang.org/) - A static type checker for JavaScript by Microsoft.
--   [**Circle CI**](https://circleci.com/) - Automate tests, linting and releases for every push or pull request.
--   [**Documentation**](http://documentation.js.org/) - A documentation system so good, you'll actually write documentation.
--   [**Semantic Release**](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
+*   [**Babel**](https://babeljs.io/) - Write next generation JavaScript today.
+*   [**Debug**](https://github.com/visionmedia/debug) - JS debugging utility that works both in node.js and browsers.
+*   [**Jest**](https://facebook.github.io/jest) - JavaScript testing framework used by Facebook.
+*   [**ESLint**](http://eslint.org/) - Make sure you are writing a quality code.
+*   [**Prettier**](https://prettier.io/) - Enforces a consistent style by parsing your code and re-printing it.
+*   [**Typescript**](https://www.typescriptlang.org/) - A static type checker for JavaScript by Microsoft.
+*   [**Circle CI**](https://circleci.com/) - Automate tests, linting and releases for every push or pull request.
+*   [**Documentation**](http://documentation.js.org/) - A documentation system so good, you'll actually write documentation.
+*   [**Semantic Release**](https://github.com/semantic-release/semantic-release) - Fully automated version management and package publishing.
 
 ## Install
 
- `git clone` this repo
+`git clone` this repo
 
 ```sh
 $ git clone https://github.com/rjchow/nod my-module
@@ -39,10 +39,10 @@ $ npm run build # generate docs and transpile code
 
 ## Setting up CI with automatic semantic-release versioning
 
--   Obtain CircleCI API token
--   Modify package.json with:
-    -   package name 
-    -   package repository 
+*   Obtain CircleCI API token
+*   Modify package.json with:
+    *   package name
+    *   package repository
 
 Run `npx semantic-release-cli setup --ask-for-passwords`
 

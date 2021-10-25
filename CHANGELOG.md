@@ -1,3 +1,10 @@
+## [1.10.6](https://github.com/rjchow/nod/compare/v1.10.5...v1.10.6) (2021-10-25)
+
+
+### chore
+
+* updated babel-eslint ([#359](https://github.com/rjchow/nod/issues/359)) ([56c7e96](https://github.com/rjchow/nod/commit/56c7e9695afe19e79a4fb68506c84cbe7d0bf8aa))
+
 ## [1.10.5](https://github.com/rjchow/nod/compare/v1.10.4...v1.10.5) (2021-08-30)
 
 
